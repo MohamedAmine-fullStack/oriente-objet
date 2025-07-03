@@ -1,0 +1,12 @@
+France;Euro;0,66
+Algerie;DA;92,99
+United states;Us.Dollar;0,6929
+Australie;AUD.Dollar;1,11
+Tunisie;TND.Dinar;2,203
+Royaume Uni;GBP;0,55
+Moroco;Moroccan Dirham;6,963
+Emirats Arabes;AED;2,5448
+Congo;Congolese Francs;1971,464
+Chine;Chinese Yuan;5,057
+Japan;Japanese Yen;107,659
+Russe;RUB;72,534
